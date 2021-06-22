@@ -1,4 +1,4 @@
-# Portfolio
+# Color Flipper
 Color Flipper
 ## About me
 * Website: https://nsamarasdev.github.io/Portfolio/
